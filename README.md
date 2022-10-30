@@ -546,7 +546,7 @@ public void ConfigureServices(IServiceCollection services)
 
 我们也可以创建我们自己的格式化规则。
 
-这一部分内容是一个很大的主题，如果你希望了解更对，请查阅：[Content Negotiation in .NET Core](https://code-maze.com/content-negotiation-dotnet-core/)
+这一部分内容是一个很大的主题，如果你希望了解更多，请查阅：[Content Negotiation in .NET Core](https://code-maze.com/content-negotiation-dotnet-core/)
 
 ### 使用 JWT
 
